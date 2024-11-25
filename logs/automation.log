@@ -1,0 +1,10 @@
+21:08:41.339 [TestNG-tests-1] INFO  testCases.TC002_LoginTests - ****Starting TC002_LoginTests****
+21:08:41.339 [TestNG-tests-2] INFO  testCases.TC002_LoginTests - ****Starting TC002_LoginTests****
+21:09:43.935 [main] INFO  testCases.TC002_LoginTests - ****Starting TC002_LoginTests****
+21:09:46.179 [main] INFO  testCases.TC002_LoginTests - ****Ending TC002_LogionTests****
+21:09:53.935 [main] INFO  testCases.TC002_LoginTests - ****Starting TC002_LoginTests****
+21:09:56.499 [main] INFO  testCases.TC002_LoginTests - ****Ending TC002_LogionTests****
+21:10:44.410 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\Downloads\Sai\Eclipse_Workspace1\OpencartV121\master.xml"
+21:10:51.271 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting TC001_AccountRegistrationTest****
+21:10:51.795 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on MyAccount****
+21:10:52.815 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Clicked on Register****
